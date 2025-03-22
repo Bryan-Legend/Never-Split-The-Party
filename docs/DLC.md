@@ -3,6 +3,11 @@ Trello Board: https://trello.com/b/5PFieeHr/never-split-the-party
 # Scope
 Name / Brand / Icon / Store Page Description
 
+- New networking engine
+- Reconnect
+- Rich Presence
+- More Speed running? 
+
 ## 5-6 New Bosses
   - Dragon
   - Zaratan https://trello.com/c/UAhZpnGi/599-zaratan-dlc-boss-1-design
@@ -40,6 +45,7 @@ Name / Brand / Icon / Store Page Description
 
 ## Weekly Announcements
 1. Initial Announcement
+1. Networking Improvements
 1. Call for translators and testers
 1. Mechanic Reveal
 1. Class Reveal
